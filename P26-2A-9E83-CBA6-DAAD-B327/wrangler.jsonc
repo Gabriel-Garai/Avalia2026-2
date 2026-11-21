@@ -1,0 +1,13 @@
+{
+  "name": "gerenciador-horas-garai",
+  "pages_build_output_dir": "./public",
+  "compatibility_date": "2026-11-01",
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "db-horas-garai",
+      "database_id": "SUBSTITUA_PELO_DATABASE_ID_DO_SEU_D1",
+      "migrations_dir": "migrations"
+    }
+  ]
+}
